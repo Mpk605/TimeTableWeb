@@ -1,18 +1,44 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-    <head>
-        <meta charset="utf-8">
-        <title>Time</title>
-        <link rel="stylesheet" href="bundle.css">
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-        <script src="bundle.js" async></script>
 
-    </head>
+<head>
+    <meta charset="utf-8">
+    <title>Time</title>
+    <link rel="stylesheet" href="bundle.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+    <script src="bundle.js" async></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-    <body>
-        <div class="container">
-            Hello World
-            <button class="foo-button mdc-button">Button</button>
+</head>
+
+<body>
+    <header class="mdc-top-app-bar">
+        <div class="mdc-top-app-bar__row">
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                <a href="#" class="material-icons mdc-top-app-bar__navigation-icon">menu</a>
+                <span class="mdc-top-app-bar__title">Time Table</span>
+                <div id="debug"></div>
+            </section>
         </div>
-    </body>
+    </header>
+    <div class="container" id="container">
+        <div class="day" id="monday">
+            Monday
+        </div>
+        <div class="day" id="tuesday">
+            Tuesday
+        </div>
+        <div class="day" id="wednesday">
+            wednesday
+        </div>
+        <div class="day" id="thursday">
+            thursday
+        </div>
+        <div class="day" id="friday">
+            friday
+        </div>
+    </div>
+</body>
+
 </html>

@@ -1,6 +1,44 @@
 @import "@material/button/mdc-button";
+@import "@material/top-app-bar/mdc-top-app-bar";
+@import "@material/card/mdc-card";
 
 .foo-button {
   @include mdc-button-ink-color(teal);
   @include mdc-states(teal);
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background: rgb(51, 51, 51);
+	font-family: Roboto, sans-serif;
+}
+
+.container {
+    padding-top: 15%;
+    display: block;
+    font-family: "Arial";
+    background-color: rgb(42, 42, 42);
+    width: 75%;
+    min-height: 100%;
+    margin: auto;
+}
+
+.mdc-card {
+    padding: 16px;
+    //margin: auto auto 16px auto;
+    width: 100%;
+}
+
+.day {
+    width: 20%;
+    display: block;
+    float: left;
 }
