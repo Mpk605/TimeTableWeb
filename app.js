@@ -24,11 +24,8 @@ $.get(s2a)
 
 var days = ["monday", "tuesday", "wednesday", "thursday", "friday"]
 
-var d;
-for (d = 0; d < 5; d++) {
-    var i;
-    for (i = 0; i < 6; i++) {
+var i;
+for (i = 0; i < 6; i++) {
 
-        document.getElementById(days[d]).innerHTML += '<div style="background-color: rgb(255, 255, 255);"> Magic Law - 8:00 - 9:30 </div>'
-    }
+    document.getElementById(days[0]).innerHTML += '<div class="class" style="background-color: rgb(255, 255, 255);"> Magic Law - 8:00 - 9:30 </div>'
 }
