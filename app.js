@@ -10,22 +10,36 @@ import {
 const topAppBarElement = document.querySelector('.mdc-top-app-bar');
 const topAppBar = new MDCTopAppBar(topAppBarElement);
 
-const selector = '.mdc-button, .mdc-icon-button, .mdc-card__primary-action';
-const ripples = [].map.call(document.querySelectorAll(selector), function(el) {
-    return new MDCRipple(el);
+var s2a = "https://www.planning.iut-tlse3.fr/info/g8669.xml";
+
+$.getJSON('http://www.whateverorigin.org/get?url=' + encodeURIComponent(s2a) + '&callback=?', function(data) {
+    init(data.contents);
 });
 
-var s2a = "https://www.planning.iut-tlse3.fr/info/g8669.html";
+var init = function(xml) {
+    console.log(xml);
 
-$.get(s2a)
-    .done(function(data) {
-        ($('body').append(data.getElementsByTagName('results')[0].firstChild.outerHTML));
-    });
+    var h = document.createElement('xml');
+    h.innerHTML = xml;
 
-var days = ["monday", "tuesday", "wednesday", "thursday", "friday"]
+    var rawWeek = 'NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN';
 
-var i;
-for (i = 0; i < 6; i++) {
+    var rawWeeks = h.getElementsByTagName("rawweeks");
 
-    document.getElementById(days[0]).innerHTML += '<div class="class" style="background-color: rgb(255, 255, 255);"> Magic Law - 8:00 - 9:30 </div>'
+    console.log(rawWeeks);
+
+    var days = ["monday", "tuesday", "wednesday", "thursday", "friday"]
+    var hours = 0;
+    var dayId = 4;
+
+    for (var i = 0; i < rawWeeks.length; i++) {
+        if (rawWeeks[i].innerHTML == rawWeek && rawWeeks[i].previousElementSibling.previousElementSibling.previousElementSibling.previousElementSibling.previousElementSibling.previousElementSibling.innerHTML == dayId) {
+            document.getElementById(days[0]).innerHTML += '<div class="class" style="background-color: rgb(255, 255, 255);">' + rawWeeks[i].nextElementSibling.innerHTML + '</div>';
+        }
+    }
+
+    // var i;
+    // for (i = 0; i < 6; i++) {
+    //     document.getElementById(days[0]).innerHTML += '<div class="class" style="background-color: rgb(255, 255, 255);"> Magic Law - 8:00 - 9:30 </div>'
+    // }
 }
