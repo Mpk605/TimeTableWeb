@@ -4,7 +4,7 @@ import {
 
 var s2a = "https://www.planning.iut-tlse3.fr/info/g8669.xml";
 
-$.getJSON('http://www.whateverorigin.org/get?url=' + encodeURIComponent(s2a) + '&callback=?', function(data) {
+$.getJSON('https://whateverorigin.herokuapp.com/get?url=' + encodeURIComponent(s2a) + '&callback=?', function(data) {
     init(data.contents);
     //console.log(isMobileDevice());
 });
