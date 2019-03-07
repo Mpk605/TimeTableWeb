@@ -4,10 +4,10 @@ import {
 
 var s2a = "https://www.planning.iut-tlse3.fr/info/g8669.xml";
 
-// $.getJSON('http://www.whateverorigin.org/get?url=' + encodeURIComponent(s2a) + '&callback=?', function(data) {
-//     //init(data.contents);
-//     //console.log(isMobileDevice());
-// });
+$.getJSON('http://www.whateverorigin.org/get?url=' + encodeURIComponent(s2a) + '&callback=?', function(data) {
+    init(data.contents);
+    //console.log(isMobileDevice());
+});
 
 var initBool = false;
 
@@ -128,7 +128,7 @@ function isMobileDevice() {
     return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
 };
 
-init(loadFile('s2a.xml'));
+//init(loadFile('s2a.xml'));
 
 function loadFile(filePath) {
     var result = null;
