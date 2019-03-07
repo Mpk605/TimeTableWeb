@@ -36,6 +36,8 @@
   },
   "dependencies": {
     "@material/card": "^0.44.1",
+    "@material/drawer": "^1.0.0",
+    "@material/layout-grid": "^0.41.0",
     "@material/top-app-bar": "^0.44.1",
     "jsdom": "^13.2.0"
   }

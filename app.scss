@@ -1,6 +1,7 @@
 @import "@material/button/mdc-button";
 @import "@material/top-app-bar/mdc-top-app-bar";
 @import "@material/card/mdc-card";
+@import "@material/layout-grid/mdc-layout-grid";
 
 .foo-button {
   @include mdc-button-ink-color(teal);
@@ -14,12 +15,27 @@
 
 html, body {
 	height: 100%;
-    //overflow: hidden;
+    overflow: hidden;
 }
 
 body {
 	background: rgb(42, 42, 42);
 	font-family: Roboto, sans-serif;
+}
+
+.mdc-layout-grid {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.mdc-layout-grid__inner {
+    height: 12.5%;
+    width: 100%;
+    text-decoration: none;
+    color: black;
+    display: block;
+    text-align: center;
 }
 
 .container {
@@ -37,31 +53,9 @@ body {
     width: 100%;
 }
 
-.day {
-    width: 100%;
-    height: auto;
+#day a {
     text-decoration: none;
     color: black;
     display: block;
     text-align: center;
-}
-
-.day a {
-    text-decoration: none;
-    color: black;
-    display: block;
-    text-align: center;
-}
-
-.day div {
-    height: 20vh;
-}
-
-.class {
-    height: 100%;
-    margin-bottom: 16px;
-}
-
-.mdc-top-app-bar {
-    width: 100vw;
 }
