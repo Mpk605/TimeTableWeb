@@ -1,0 +1,4835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ttss.xsl"?>
+
+<timetable>
+<option combined="0" totalweeks="0" showemptydays="1" dayclass="reverse">
+<link href="g8669.xml" class="xml">Version HTML imprimable</link>
+<link href="g8669.pdf" class="pdf">Version PDF</link>
+<weeks>Semaines</weeks>
+<dates>Dates</dates>
+<week>Semaine</week>
+<date>Date</date>
+<all>Toutes les semaines</all>
+<notes>Remarques</notes>
+<id>ID</id>
+<eventname>Nom de l'événement</eventname>
+<selectwk>Sélectionner une semaine</selectwk>
+<day>Jour</day>
+<timeevent>Heure / événement</timeevent>
+<weekind>Semaine(s)</weekind>
+<details>Détails</details>
+<custom1>Custom 1</custom1>
+<custom2>Custom 2</custom2>
+<custom3>Custom 3</custom3>
+<footer>Publié 06/03/2019 05:21:21 - Universite Toulouse III - Paul Sabatier<br />Créé par
+<a href="http://www.celcat.com" target="_parent">CELCAT Web Publisher</a></footer>
+<subheading>Emploi du temps Groupe - InS2A, S2A</subheading></option>
+<property />
+<span id="0" date="04/03/2019" rawix="27" rawlen="1">
+<description>Semaine 10, Semaine commençant le 04/03/2019</description>
+<title>10</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="1" date="11/03/2019" rawix="28" rawlen="1">
+<description>Semaine 11, Semaine commençant le 11/03/2019</description>
+<title>11</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="2" date="18/03/2019" rawix="29" rawlen="1">
+<description>Semaine 12, Semaine commençant le 18/03/2019</description>
+<title>12</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="3" date="25/03/2019" rawix="30" rawlen="1">
+<description>Semaine 13, Semaine commençant le 25/03/2019</description>
+<title>13</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="4" date="01/04/2019" rawix="31" rawlen="1">
+<description>Semaine 14, Semaine commençant le 01/04/2019</description>
+<title>14</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="5" date="08/04/2019" rawix="32" rawlen="1">
+<description>Semaine 15, Semaine commençant le 08/04/2019</description>
+<title>15</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="6" date="15/04/2019" rawix="33" rawlen="1">
+<description>Semaine 16, Semaine commençant le 15/04/2019</description>
+<title>16</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="7" date="22/04/2019" rawix="34" rawlen="1">
+<description>Semaine 17, Semaine commençant le 22/04/2019</description>
+<title>17</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="8" date="29/04/2019" rawix="35" rawlen="1">
+<description>Semaine 18, Semaine commençant le 29/04/2019</description>
+<title>18</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="9" date="06/05/2019" rawix="36" rawlen="1">
+<description>Semaine 19, Semaine commençant le 06/05/2019</description>
+<title>19</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="10" date="13/05/2019" rawix="37" rawlen="1">
+<description>Semaine 20, Semaine commençant le 13/05/2019</description>
+<title>20</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="11" date="20/05/2019" rawix="38" rawlen="1">
+<description>Semaine 21, Semaine commençant le 20/05/2019</description>
+<title>21</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="12" date="27/05/2019" rawix="39" rawlen="1">
+<description>Semaine 22, Semaine commençant le 27/05/2019</description>
+<title>22</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="13" date="03/06/2019" rawix="40" rawlen="1">
+<description>Semaine 23, Semaine commençant le 03/06/2019</description>
+<title>23</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="14" date="10/06/2019" rawix="41" rawlen="1">
+<description>Semaine 24, Semaine commençant le 10/06/2019</description>
+<title>24</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="15" date="17/06/2019" rawix="42" rawlen="1">
+<description>Semaine 25, Semaine commençant le 17/06/2019</description>
+<title>25</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="16" date="24/06/2019" rawix="43" rawlen="1">
+<description>Semaine 26, Semaine commençant le 24/06/2019</description>
+<title>26</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="17" date="01/07/2019" rawix="44" rawlen="1">
+<description>Semaine 27, Semaine commençant le 01/07/2019</description>
+<title>27</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="18" date="08/07/2019" rawix="45" rawlen="1">
+<description>Semaine 28, Semaine commençant le 08/07/2019</description>
+<title>28</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="19" date="15/07/2019" rawix="46" rawlen="1">
+<description>Semaine 29, Semaine commençant le 15/07/2019</description>
+<title>29</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<span id="20" date="22/07/2019" rawix="47" rawlen="1">
+<description>Semaine 30, Semaine commençant le 22/07/2019</description>
+<title>30</title>
+<alleventweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNN</alleventweeks>
+<day id="0">
+<name>lundi</name></day>
+<day id="1">
+<name>mardi</name></day>
+<day id="2">
+<name>mercredi</name></day>
+<day id="3">
+<name>jeudi</name></day>
+<day id="4">
+<name>vendredi</name></day></span>
+<event id="331791" timesort="08000930" colour="BEEAFF">
+<day>0</day>
+<prettytimes>08:00-09:30 CM</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10062.html">CABANAC Guillaume</a></item></staff></resources></event>
+<event id="331791" timesort="08000930" colour="BEEAFF">
+<day>0</day>
+<prettytimes>08:00-09:30 CM</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10062.html">CABANAC Guillaume</a></item></staff></resources></event>
+<event id="331791" timesort="08000930" colour="BEEAFF">
+<day>0</day>
+<prettytimes>08:00-09:30 CM</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10062.html">CABANAC Guillaume</a></item></staff></resources></event>
+<event id="331791" timesort="08000930" colour="BEEAFF">
+<day>0</day>
+<prettytimes>08:00-09:30 CM</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10062.html">CABANAC Guillaume</a></item></staff></resources></event>
+<event id="331791" timesort="08000930" colour="BEEAFF">
+<day>0</day>
+<prettytimes>08:00-09:30 CM</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room></resources></event>
+<event id="331791" timesort="08000930" colour="BEEAFF">
+<day>0</day>
+<prettytimes>08:00-09:30 CM</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room></resources></event>
+<event id="331791" timesort="08000930" colour="BEEAFF">
+<day>0</day>
+<prettytimes>08:00-09:30 CM</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10062.html">CABANAC Guillaume</a></item></staff></resources></event>
+<event id="331791" timesort="08000930" colour="BEEAFF">
+<day>0</day>
+<prettytimes>08:00-09:30 CM</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10062.html">CABANAC Guillaume</a></item></staff></resources></event>
+<event id="328841" timesort="09301100" colour="FFD7B0">
+<day>0</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9848.html">IN212</a></item></room>
+<staff>
+<item><a href="s107267.html">TINE Chantal</a></item></staff></resources></event>
+<event id="328841" timesort="09301100" colour="FFD7B0">
+<day>0</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9848.html">IN212</a></item></room>
+<staff>
+<item><a href="s107267.html">TINE Chantal</a></item></staff></resources></event>
+<event id="328841" timesort="09301100" colour="FFD7B0">
+<day>0</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9848.html">IN212</a></item></room>
+<staff>
+<item><a href="s107267.html">TINE Chantal</a></item></staff></resources></event>
+<event id="328853" timesort="09301100" colour="FFFFBF">
+<day>0</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item>
+<item><a href="r9855.html">InTopaze</a></item></room>
+<staff>
+<item><a href="s79649.html">RASPAUD Pascale</a></item>
+<item><a href="s107267.html">TINE Chantal</a></item></staff></resources></event>
+<event id="328853" timesort="09301100" colour="FFFFBF">
+<day>0</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item>
+<item><a href="r9855.html">InTopaze</a></item></room>
+<staff>
+<item><a href="s79649.html">RASPAUD Pascale</a></item>
+<item><a href="s107267.html">TINE Chantal</a></item></staff></resources></event>
+<event id="328853" timesort="09301100" colour="FFFFBF">
+<day>0</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item>
+<item><a href="r9855.html">InTopaze</a></item></room>
+<staff>
+<item><a href="s79649.html">RASPAUD Pascale</a></item>
+<item><a href="s107267.html">TINE Chantal</a></item></staff></resources></event>
+<event id="328853" timesort="09301100" colour="FFFFBF">
+<day>0</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item>
+<item><a href="r9855.html">InTopaze</a></item></room>
+<staff>
+<item><a href="s79649.html">RASPAUD Pascale</a></item>
+<item><a href="s107267.html">TINE Chantal</a></item></staff></resources></event>
+<event id="328853" timesort="09301100" colour="FFFFBF">
+<day>0</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item>
+<item><a href="r9855.html">InTopaze</a></item></room>
+<staff>
+<item><a href="s79649.html">RASPAUD Pascale</a></item>
+<item><a href="s107267.html">TINE Chantal</a></item></staff></resources></event>
+<event id="328853" timesort="09301100" colour="FFFFBF">
+<day>0</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item>
+<item><a href="r9855.html">InTopaze</a></item></room>
+<staff>
+<item><a href="s79649.html">RASPAUD Pascale</a></item>
+<item><a href="s107267.html">TINE Chantal</a></item></staff></resources></event>
+<event id="328853" timesort="09301100" colour="FFFFBF">
+<day>0</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item>
+<item><a href="r9855.html">InTopaze</a></item></room>
+<staff>
+<item><a href="s79649.html">RASPAUD Pascale</a></item>
+<item><a href="s107267.html">TINE Chantal</a></item></staff></resources></event>
+<event id="334532" timesort="09301100" colour="FFFFBF">
+<day>0</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources>
+<notes>remplace 23/05</notes></event>
+<event id="328918" timesort="11001230" colour="FFD7B0">
+<day>0</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s10021.html">FERNANDEZ Pascal</a></item></staff></resources></event>
+<event id="328924" timesort="11001230" colour="FFD7B0">
+<day>0</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328924" timesort="11001230" colour="FFD7B0">
+<day>0</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328924" timesort="11001230" colour="FFD7B0">
+<day>0</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328924" timesort="11001230" colour="FFD7B0">
+<day>0</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328924" timesort="11001230" colour="FFD7B0">
+<day>0</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328932" timesort="11001230" colour="FFFFBF">
+<day>0</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328932" timesort="11001230" colour="FFFFBF">
+<day>0</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328932" timesort="11001230" colour="FFFFBF">
+<day>0</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328932" timesort="11001230" colour="FFFFBF">
+<day>0</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328932" timesort="11001230" colour="FFFFBF">
+<day>0</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328932" timesort="11001230" colour="FFFFBF">
+<day>0</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="328700" timesort="14001530" colour="FFD7B0">
+<day>0</day>
+<prettytimes>14:00-15:30 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s319312.html">TREVISAN Gerald</a></item></staff></resources></event>
+<event id="328700" timesort="14001530" colour="FFD7B0">
+<day>0</day>
+<prettytimes>14:00-15:30 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s319312.html">TREVISAN Gerald</a></item></staff></resources></event>
+<event id="328700" timesort="14001530" colour="FFD7B0">
+<day>0</day>
+<prettytimes>14:00-15:30 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="328700" timesort="14001530" colour="FFD7B0">
+<day>0</day>
+<prettytimes>14:00-15:30 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="328700" timesort="14001530" colour="FFD7B0">
+<day>0</day>
+<prettytimes>14:00-15:30 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="328700" timesort="14001530" colour="FFD7B0">
+<day>0</day>
+<prettytimes>14:00-15:30 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="328711" timesort="14001530" colour="FFFFBF">
+<day>0</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item>BOYER Marc</item></staff></resources></event>
+<event id="328711" timesort="14001530" colour="FFFFBF">
+<day>0</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item>BOYER Marc</item></staff></resources></event>
+<event id="328711" timesort="14001530" colour="FFFFBF">
+<day>0</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item>BOYER Marc</item></staff></resources></event>
+<event id="328711" timesort="14001530" colour="FFFFBF">
+<day>0</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item>BOYER Marc</item></staff></resources></event>
+<event id="328711" timesort="14001530" colour="FFFFBF">
+<day>0</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item>BOYER Marc</item></staff></resources></event>
+<event id="328711" timesort="14001530" colour="FFFFBF">
+<day>0</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item>BOYER Marc</item></staff></resources></event>
+<event id="330227" timesort="15301700" colour="BEEAFF">
+<day>0</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="330227" timesort="15301700" colour="BEEAFF">
+<day>0</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="330227" timesort="15301700" colour="BEEAFF">
+<day>0</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76975.html">InM2204</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="330227" timesort="15301700" colour="BEEAFF">
+<day>0</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="330227" timesort="15301700" colour="BEEAFF">
+<day>0</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="330227" timesort="15301700" colour="BEEAFF">
+<day>0</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="330227" timesort="15301700" colour="BEEAFF">
+<day>0</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room></resources></event>
+<event id="332503" timesort="15301700" colour="BEEAFF">
+<day>0</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="334859" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s9962.html">PERCEBOIS Christian</a></item></staff></resources></event>
+<event id="334859" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s9962.html">PERCEBOIS Christian</a></item></staff></resources></event>
+<event id="334859" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s9962.html">PERCEBOIS Christian</a></item></staff></resources></event>
+<event id="334859" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s9962.html">PERCEBOIS Christian</a></item></staff></resources></event>
+<event id="334859" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s9962.html">PERCEBOIS Christian</a></item></staff></resources></event>
+<event id="334859" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s9962.html">PERCEBOIS Christian</a></item></staff></resources></event>
+<event id="334860" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room></resources></event>
+<event id="334860" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room></resources></event>
+<event id="334860" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room></resources></event>
+<event id="334860" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room></resources></event>
+<event id="334860" timesort="17001830" colour="7F7F7F">
+<day>0</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room></resources></event>
+<event id="328886" timesort="08000930" colour="FFD7B0">
+<day>1</day>
+<prettytimes>08:00-09:30 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9844.html">IN205</a></item></room>
+<staff>
+<item><a href="s9947.html">KROSS Caroline</a></item></staff></resources></event>
+<event id="328886" timesort="08000930" colour="FFD7B0">
+<day>1</day>
+<prettytimes>08:00-09:30 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9844.html">IN205</a></item></room>
+<staff>
+<item><a href="s9947.html">KROSS Caroline</a></item></staff></resources></event>
+<event id="328886" timesort="08000930" colour="FFD7B0">
+<day>1</day>
+<prettytimes>08:00-09:30 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9844.html">IN205</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="328886" timesort="08000930" colour="FFD7B0">
+<day>1</day>
+<prettytimes>08:00-09:30 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9844.html">IN205</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="328886" timesort="08000930" colour="FFD7B0">
+<day>1</day>
+<prettytimes>08:00-09:30 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9844.html">IN205</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="328886" timesort="08000930" colour="FFD7B0">
+<day>1</day>
+<prettytimes>08:00-09:30 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9844.html">IN205</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="328886" timesort="08000930" colour="FFD7B0">
+<day>1</day>
+<prettytimes>08:00-09:30 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9844.html">IN205</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="328885" timesort="08000930" colour="FFFFBF">
+<day>1</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s9947.html">KROSS Caroline</a></item>
+<item><a href="s26196.html">VIALLET Fabienne</a></item></staff></resources></event>
+<event id="328885" timesort="08000930" colour="FFFFBF">
+<day>1</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s9947.html">KROSS Caroline</a></item>
+<item><a href="s26196.html">VIALLET Fabienne</a></item></staff></resources></event>
+<event id="328885" timesort="08000930" colour="FFFFBF">
+<day>1</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r9848.html">IN212</a></item></room>
+<staff>
+<item><a href="s9947.html">KROSS Caroline</a></item>
+<item><a href="s26196.html">VIALLET Fabienne</a></item></staff></resources></event>
+<event id="328885" timesort="08000930" colour="FFFFBF">
+<day>1</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9848.html">IN212</a></item></room>
+<staff>
+<item><a href="s9947.html">KROSS Caroline</a></item>
+<item><a href="s26196.html">VIALLET Fabienne</a></item></staff></resources></event>
+<event id="328259" timesort="09301100" colour="FFFFBF">
+<day>1</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328259" timesort="09301100" colour="FFFFBF">
+<day>1</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328259" timesort="09301100" colour="FFFFBF">
+<day>1</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328259" timesort="09301100" colour="FFFFBF">
+<day>1</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328259" timesort="09301100" colour="FFFFBF">
+<day>1</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328259" timesort="09301100" colour="FFFFBF">
+<day>1</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328333" timesort="09301100" colour="FFD7B0">
+<day>1</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room></resources></event>
+<event id="328333" timesort="09301100" colour="FFD7B0">
+<day>1</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room></resources></event>
+<event id="328333" timesort="09301100" colour="FFD7B0">
+<day>1</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room></resources></event>
+<event id="328258" timesort="09301100" colour="FFFFBF">
+<day>1</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="328258" timesort="09301100" colour="FFFFBF">
+<day>1</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="328258" timesort="09301100" colour="FFFFBF">
+<day>1</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="328715" timesort="11001230" colour="FFD7B0">
+<day>1</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8672.html">InS2B</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s10009.html">PAUL Emmanuel</a></item></staff></resources></event>
+<event id="328715" timesort="11001230" colour="FFD7B0">
+<day>1</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8672.html">InS2B</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10009.html">PAUL Emmanuel</a></item></staff></resources></event>
+<event id="328715" timesort="11001230" colour="FFD7B0">
+<day>1</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8672.html">InS2B</a></item></group>
+<room>
+<item><a href="r9832.html">GR019</a></item></room>
+<staff>
+<item><a href="s10009.html">PAUL Emmanuel</a></item></staff></resources></event>
+<event id="328715" timesort="11001230" colour="FFD7B0">
+<day>1</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8672.html">InS2B</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s10009.html">PAUL Emmanuel</a></item></staff></resources></event>
+<event id="328715" timesort="11001230" colour="FFD7B0">
+<day>1</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8672.html">InS2B</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s10009.html">PAUL Emmanuel</a></item></staff></resources></event>
+<event id="328715" timesort="11001230" colour="FFD7B0">
+<day>1</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8672.html">InS2B</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s10009.html">PAUL Emmanuel</a></item></staff></resources></event>
+<event id="328777" timesort="11001230" colour="FFFFBF">
+<day>1</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item></room></resources></event>
+<event id="328777" timesort="11001230" colour="FFFFBF">
+<day>1</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item></room></resources></event>
+<event id="328777" timesort="11001230" colour="FFFFBF">
+<day>1</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item></room></resources></event>
+<event id="328777" timesort="11001230" colour="FFFFBF">
+<day>1</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item></room></resources></event>
+<event id="328777" timesort="11001230" colour="FFFFBF">
+<day>1</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item></room></resources></event>
+<event id="334784" timesort="12301330" colour="DFDFDF">
+<day>1</day>
+<prettytimes>12:30-13:30 Réunion</prettytimes>
+<starttime>12:30</starttime>
+<endtime>13:30</endtime>
+<category>Réunion</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item>
+<item><a href="g8709.html">InS4</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room></resources>
+<notes>élections ATIDUT</notes></event>
+<event id="335784" timesort="14001530" colour="FFD7B0">
+<day>1</day>
+<prettytimes>14:00-15:30 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9841.html">IN201</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item></staff></resources></event>
+<event id="335784" timesort="14001530" colour="FFD7B0">
+<day>1</day>
+<prettytimes>14:00-15:30 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9841.html">IN201</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item></staff></resources></event>
+<event id="335784" timesort="14001530" colour="FFD7B0">
+<day>1</day>
+<prettytimes>14:00-15:30 TD</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9841.html">IN201</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item></staff></resources></event>
+<event id="335783" timesort="14001530" colour="BF7FFF">
+<day>1</day>
+<prettytimes>14:00-15:30 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item></staff></resources></event>
+<event id="328687" timesort="14001530" colour="FFFFBF">
+<day>1</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9854.html">InRubis</a></item></room></resources></event>
+<event id="328687" timesort="14001530" colour="FFFFBF">
+<day>1</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9854.html">InRubis</a></item></room></resources></event>
+<event id="328687" timesort="14001530" colour="FFFFBF">
+<day>1</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9854.html">InRubis</a></item></room></resources></event>
+<event id="335808" timesort="14001530" colour="BF7FFF">
+<day>1</day>
+<prettytimes>14:00-15:30 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9863.html">IRExam</a></item></room>
+<staff>
+<item><a href="s9962.html">PERCEBOIS Christian</a></item></staff></resources></event>
+<event id="328791" timesort="15301700" colour="FFD7B0">
+<day>1</day>
+<prettytimes>15:30-17:00 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s10101.html">DINAR Senouci</a></item></staff></resources></event>
+<event id="328791" timesort="15301700" colour="FFD7B0">
+<day>1</day>
+<prettytimes>15:30-17:00 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s10101.html">DINAR Senouci</a></item></staff></resources></event>
+<event id="328791" timesort="15301700" colour="FFD7B0">
+<day>1</day>
+<prettytimes>15:30-17:00 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s10101.html">DINAR Senouci</a></item></staff></resources></event>
+<event id="328791" timesort="15301700" colour="FFD7B0">
+<day>1</day>
+<prettytimes>15:30-17:00 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s10101.html">DINAR Senouci</a></item></staff></resources></event>
+<event id="328791" timesort="15301700" colour="FFD7B0">
+<day>1</day>
+<prettytimes>15:30-17:00 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s10101.html">DINAR Senouci</a></item></staff></resources></event>
+<event id="328791" timesort="15301700" colour="FFD7B0">
+<day>1</day>
+<prettytimes>15:30-17:00 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s10101.html">DINAR Senouci</a></item></staff></resources></event>
+<event id="328791" timesort="15301700" colour="FFD7B0">
+<day>1</day>
+<prettytimes>15:30-17:00 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s10101.html">DINAR Senouci</a></item></staff></resources></event>
+<event id="328791" timesort="15301700" colour="FFD7B0">
+<day>1</day>
+<prettytimes>15:30-17:00 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76972.html">InM2201</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s10101.html">DINAR Senouci</a></item></staff></resources></event>
+<event id="328791" timesort="15301700" colour="FFD7B0">
+<day>1</day>
+<prettytimes>15:30-17:00 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s10101.html">DINAR Senouci</a></item></staff></resources></event>
+<event id="328801" timesort="15301700" colour="FFFFBF">
+<day>1</day>
+<prettytimes>15:30-17:00 TP</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item></room>
+<staff>
+<item><a href="s10102.html">DRIDI Mohamed-Tahar</a></item></staff></resources></event>
+<event id="328801" timesort="15301700" colour="FFFFBF">
+<day>1</day>
+<prettytimes>15:30-17:00 TP</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9851.html">InJade</a></item></room>
+<staff>
+<item><a href="s10102.html">DRIDI Mohamed-Tahar</a></item></staff></resources></event>
+<event id="336251" timesort="17001830" colour="FFD7B0">
+<day>1</day>
+<prettytimes>17:00-18:30 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76966.html">InM2102</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9852.html">InOpale</a></item></room>
+<staff>
+<item><a href="s9953.html">BROISIN Julien</a></item></staff></resources></event>
+<event id="336251" timesort="17001830" colour="FFD7B0">
+<day>1</day>
+<prettytimes>17:00-18:30 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76966.html">InM2102</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9852.html">InOpale</a></item></room>
+<staff>
+<item><a href="s9953.html">BROISIN Julien</a></item></staff></resources></event>
+<event id="336251" timesort="17001830" colour="FFD7B0">
+<day>1</day>
+<prettytimes>17:00-18:30 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9852.html">InOpale</a></item></room></resources></event>
+<event id="336251" timesort="17001830" colour="FFD7B0">
+<day>1</day>
+<prettytimes>17:00-18:30 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9852.html">InOpale</a></item></room></resources></event>
+<event id="336251" timesort="17001830" colour="FFD7B0">
+<day>1</day>
+<prettytimes>17:00-18:30 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9852.html">InOpale</a></item></room></resources></event>
+<event id="336251" timesort="17001830" colour="FFD7B0">
+<day>1</day>
+<prettytimes>17:00-18:30 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9852.html">InOpale</a></item></room></resources></event>
+<event id="336251" timesort="17001830" colour="FFD7B0">
+<day>1</day>
+<prettytimes>17:00-18:30 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9852.html">InOpale</a></item></room></resources></event>
+<event id="336251" timesort="17001830" colour="FFD7B0">
+<day>1</day>
+<prettytimes>17:00-18:30 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9852.html">InOpale</a></item></room></resources></event>
+<event id="336251" timesort="17001830" colour="FFD7B0">
+<day>1</day>
+<prettytimes>17:00-18:30 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9852.html">InOpale</a></item></room></resources></event>
+<event id="336251" timesort="17001830" colour="FFD7B0">
+<day>1</day>
+<prettytimes>17:00-18:30 TD</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9852.html">InOpale</a></item></room></resources></event>
+<event id="335831" timesort="08000930" colour="FFFFBF">
+<day>2</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s10082.html">COLOMB Sandrine</a></item></staff></resources></event>
+<event id="335831" timesort="08000930" colour="FFFFBF">
+<day>2</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9850.html">InGrenat</a></item></room>
+<staff>
+<item><a href="s10082.html">COLOMB Sandrine</a></item></staff></resources></event>
+<event id="335831" timesort="08000930" colour="FFFFBF">
+<day>2</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9850.html">InGrenat</a></item></room>
+<staff>
+<item><a href="s10082.html">COLOMB Sandrine</a></item></staff></resources></event>
+<event id="335831" timesort="08000930" colour="FFFFBF">
+<day>2</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r9850.html">InGrenat</a></item></room>
+<staff>
+<item><a href="s10082.html">COLOMB Sandrine</a></item></staff></resources></event>
+<event id="335831" timesort="08000930" colour="FFFFBF">
+<day>2</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9850.html">InGrenat</a></item></room>
+<staff>
+<item><a href="s10082.html">COLOMB Sandrine</a></item></staff></resources></event>
+<event id="335831" timesort="08000930" colour="FFFFBF">
+<day>2</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r9850.html">InGrenat</a></item></room>
+<staff>
+<item><a href="s10082.html">COLOMB Sandrine</a></item></staff></resources></event>
+<event id="335831" timesort="08000930" colour="FFFFBF">
+<day>2</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9850.html">InGrenat</a></item></room>
+<staff>
+<item><a href="s10082.html">COLOMB Sandrine</a></item></staff></resources></event>
+<event id="335831" timesort="08000930" colour="FFFFBF">
+<day>2</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r9850.html">InGrenat</a></item></room>
+<staff>
+<item><a href="s10082.html">COLOMB Sandrine</a></item></staff></resources></event>
+<event id="336252" timesort="08000930" colour="FFD7B0">
+<day>2</day>
+<prettytimes>08:00-09:30 TD</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76966.html">InM2102</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9854.html">InRubis</a></item></room>
+<staff>
+<item><a href="s9953.html">BROISIN Julien</a></item></staff></resources></event>
+<event id="328913" timesort="08000930" colour="FFFFBF">
+<day>2</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9854.html">InRubis</a></item></room>
+<staff>
+<item><a href="s10102.html">DRIDI Mohamed-Tahar</a></item></staff></resources></event>
+<event id="328820" timesort="09301100" colour="FFD7B0">
+<day>2</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76979.html">InM2207</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9846.html">IN209</a></item></room>
+<staff>
+<item><a href="s12197.html">NOTTIN Muriel</a></item></staff></resources></event>
+<event id="328820" timesort="09301100" colour="FFD7B0">
+<day>2</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76979.html">InM2207</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9846.html">IN209</a></item></room>
+<staff>
+<item><a href="s12197.html">NOTTIN Muriel</a></item></staff></resources></event>
+<event id="328820" timesort="09301100" colour="FFD7B0">
+<day>2</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76979.html">InM2207</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9846.html">IN209</a></item></room>
+<staff>
+<item><a href="s12197.html">NOTTIN Muriel</a></item></staff></resources></event>
+<event id="328820" timesort="09301100" colour="FFD7B0">
+<day>2</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76979.html">InM2207</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9846.html">IN209</a></item></room>
+<staff>
+<item><a href="s12197.html">NOTTIN Muriel</a></item></staff></resources></event>
+<event id="328827" timesort="09301100" colour="FFFFBF">
+<day>2</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76979.html">InM2207</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s12197.html">NOTTIN Muriel</a></item></staff></resources></event>
+<event id="328827" timesort="09301100" colour="FFFFBF">
+<day>2</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76979.html">InM2207</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s12197.html">NOTTIN Muriel</a></item></staff></resources></event>
+<event id="328827" timesort="09301100" colour="FFFFBF">
+<day>2</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76979.html">InM2207</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s12197.html">NOTTIN Muriel</a></item></staff></resources></event>
+<event id="328835" timesort="09301100" colour="FFD7B0">
+<day>2</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A</item></group></resources></event>
+<event id="328835" timesort="09301100" colour="FFD7B0">
+<day>2</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A</item></group></resources></event>
+<event id="328835" timesort="09301100" colour="FFD7B0">
+<day>2</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A</item></group></resources></event>
+<event id="328835" timesort="09301100" colour="FFD7B0">
+<day>2</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76976.html">InM2205</a></item></module>
+<group>
+<item>InS2A</item></group></resources></event>
+<event id="331496" timesort="11001230" colour="FFFFBF">
+<day>2</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="331496" timesort="11001230" colour="FFFFBF">
+<day>2</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="331496" timesort="11001230" colour="FFFFBF">
+<day>2</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="331496" timesort="11001230" colour="FFFFBF">
+<day>2</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="331496" timesort="11001230" colour="FFFFBF">
+<day>2</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="331496" timesort="11001230" colour="FFFFBF">
+<day>2</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328337" timesort="11001230" colour="FFD7B0">
+<day>2</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room></resources></event>
+<event id="328337" timesort="11001230" colour="FFD7B0">
+<day>2</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room></resources></event>
+<event id="328357" timesort="11001230" colour="FFFFBF">
+<day>2</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="328357" timesort="11001230" colour="FFFFBF">
+<day>2</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="328357" timesort="11001230" colour="FFFFBF">
+<day>2</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="331267" timesort="14001530" colour="BEEAFF">
+<day>2</day>
+<prettytimes>14:00-15:30 CM</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s9902.html">CARRARA Jean-Paul</a></item></staff></resources></event>
+<event id="331267" timesort="14001530" colour="BEEAFF">
+<day>2</day>
+<prettytimes>14:00-15:30 CM</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s9902.html">CARRARA Jean-Paul</a></item></staff></resources></event>
+<event id="331267" timesort="14001530" colour="BEEAFF">
+<day>2</day>
+<prettytimes>14:00-15:30 CM</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s9902.html">CARRARA Jean-Paul</a></item></staff></resources></event>
+<event id="331267" timesort="14001530" colour="BEEAFF">
+<day>2</day>
+<prettytimes>14:00-15:30 CM</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s9902.html">CARRARA Jean-Paul</a></item></staff></resources></event>
+<event id="331267" timesort="14001530" colour="BEEAFF">
+<day>2</day>
+<prettytimes>14:00-15:30 CM</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s9902.html">CARRARA Jean-Paul</a></item></staff></resources></event>
+<event id="331267" timesort="14001530" colour="BEEAFF">
+<day>2</day>
+<prettytimes>14:00-15:30 CM</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room></resources></event>
+<event id="331267" timesort="14001530" colour="BEEAFF">
+<day>2</day>
+<prettytimes>14:00-15:30 CM</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room></resources></event>
+<event id="335813" timesort="14001530" colour="BF7FFF">
+<day>2</day>
+<prettytimes>14:00-15:30 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9863.html">IRExam</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item>
+<item><a href="s9929.html">BELTRAN Thierry</a></item>
+<item><a href="s9949.html">BOUGHANEM Mohand</a></item>
+<item><a href="s10062.html">CABANAC Guillaume</a></item></staff></resources></event>
+<event id="331806" timesort="15301700" colour="BEEAFF">
+<day>2</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s9929.html">BELTRAN Thierry</a></item></staff></resources></event>
+<event id="331806" timesort="15301700" colour="BEEAFF">
+<day>2</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s9929.html">BELTRAN Thierry</a></item></staff></resources></event>
+<event id="332500" timesort="15301700" colour="BEEAFF">
+<day>2</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s9941.html">LABORDE Romain</a></item></staff></resources></event>
+<event id="332504" timesort="15301700" colour="BEEAFF">
+<day>2</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="331860" timesort="17001830" colour="BEEAFF">
+<day>2</day>
+<prettytimes>17:00-18:30 CM</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s9947.html">KROSS Caroline</a></item>
+<item><a href="s26196.html">VIALLET Fabienne</a></item></staff></resources>
+<notes>Ethique</notes></event>
+<event id="335406" timesort="17001830" colour="7F7F7F">
+<day>2</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group></resources></event>
+<event id="335406" timesort="17001830" colour="7F7F7F">
+<day>2</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group></resources></event>
+<event id="335406" timesort="17001830" colour="7F7F7F">
+<day>2</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group></resources></event>
+<event id="335406" timesort="17001830" colour="7F7F7F">
+<day>2</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group></resources></event>
+<event id="335406" timesort="17001830" colour="7F7F7F">
+<day>2</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group></resources></event>
+<event id="335406" timesort="17001830" colour="7F7F7F">
+<day>2</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group></resources></event>
+<event id="335406" timesort="17001830" colour="7F7F7F">
+<day>2</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group></resources></event>
+<event id="335406" timesort="17001830" colour="7F7F7F">
+<day>2</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group></resources></event>
+<event id="335406" timesort="17001830" colour="7F7F7F">
+<day>2</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group></resources></event>
+<event id="335406" timesort="17001830" colour="7F7F7F">
+<day>2</day>
+<prettytimes>17:00-18:30 cours de soutien</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group></resources></event>
+<event id="332505" timesort="17001830" colour="BEEAFF">
+<day>2</day>
+<prettytimes>17:00-18:30 CM</prettytimes>
+<starttime>17:00</starttime>
+<endtime>18:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item></staff></resources></event>
+<event id="328677" timesort="08000930" colour="FFFFBF">
+<day>3</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9836.html">IN115</a></item>
+<item>LLGEAR</item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="336253" timesort="09301100" colour="FFD7B0">
+<day>3</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76966.html">InM2102</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s9953.html">BROISIN Julien</a></item></staff></resources></event>
+<event id="336253" timesort="09301100" colour="FFD7B0">
+<day>3</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="336253" timesort="09301100" colour="FFD7B0">
+<day>3</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="336253" timesort="09301100" colour="FFD7B0">
+<day>3</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="336253" timesort="09301100" colour="FFD7B0">
+<day>3</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="336253" timesort="09301100" colour="FFD7B0">
+<day>3</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="336253" timesort="09301100" colour="FFD7B0">
+<day>3</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="336253" timesort="09301100" colour="FFD7B0">
+<day>3</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="328805" timesort="11001230" colour="BEEAFF">
+<day>3</day>
+<prettytimes>11:00-12:30 CM</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8672.html">InS2B</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s10020.html">BENBOURHIM Mohammed-Najib</a></item></staff></resources></event>
+<event id="328805" timesort="11001230" colour="BEEAFF">
+<day>3</day>
+<prettytimes>11:00-12:30 CM</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8672.html">InS2B</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s10020.html">BENBOURHIM Mohammed-Najib</a></item></staff></resources></event>
+<event id="328805" timesort="11001230" colour="BEEAFF">
+<day>3</day>
+<prettytimes>11:00-12:30 CM</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8672.html">InS2B</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s10020.html">BENBOURHIM Mohammed-Najib</a></item></staff></resources></event>
+<event id="328806" timesort="11001230" colour="FFD7B0">
+<day>3</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s10102.html">DRIDI Mohamed-Tahar</a></item></staff></resources></event>
+<event id="328806" timesort="11001230" colour="FFD7B0">
+<day>3</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s10102.html">DRIDI Mohamed-Tahar</a></item></staff></resources></event>
+<event id="328806" timesort="11001230" colour="FFD7B0">
+<day>3</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s10102.html">DRIDI Mohamed-Tahar</a></item></staff></resources></event>
+<event id="328806" timesort="11001230" colour="FFD7B0">
+<day>3</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s10102.html">DRIDI Mohamed-Tahar</a></item></staff></resources></event>
+<event id="328806" timesort="11001230" colour="FFD7B0">
+<day>3</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s10102.html">DRIDI Mohamed-Tahar</a></item></staff></resources></event>
+<event id="328806" timesort="11001230" colour="FFD7B0">
+<day>3</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s10102.html">DRIDI Mohamed-Tahar</a></item></staff></resources></event>
+<event id="328806" timesort="11001230" colour="FFD7B0">
+<day>3</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76973.html">InM2202</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9854.html">InRubis</a></item></room>
+<staff>
+<item><a href="s10102.html">DRIDI Mohamed-Tahar</a></item></staff></resources></event>
+<event id="333630" timesort="13301430" colour="DFDFDF">
+<day>3</day>
+<prettytimes>13:30-14:30 Réunion</prettytimes>
+<starttime>13:30</starttime>
+<endtime>14:30</endtime>
+<category>Réunion</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77015.html">InM2107</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8681.html">InS2E</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources>
+<notes>RV client</notes></event>
+<event id="333630" timesort="13301430" colour="DFDFDF">
+<day>3</day>
+<prettytimes>13:30-14:30 Réunion</prettytimes>
+<starttime>13:30</starttime>
+<endtime>14:30</endtime>
+<category>Réunion</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77015.html">InM2107</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8681.html">InS2E</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources>
+<notes>RV client</notes></event>
+<event id="333630" timesort="13301430" colour="DFDFDF">
+<day>3</day>
+<prettytimes>13:30-14:30 Réunion</prettytimes>
+<starttime>13:30</starttime>
+<endtime>14:30</endtime>
+<category>Réunion</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77015.html">InM2107</a></item></module>
+<group>
+<item>InS2A</item>
+<item><a href="g8681.html">InS2E</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item></room>
+<staff>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources>
+<notes>RV client</notes></event>
+<event id="334861" timesort="14001530" colour="BF7FFF">
+<day>3</day>
+<prettytimes>14:00-15:30 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item>
+<item><a href="r9850.html">InGrenat</a></item>
+<item><a href="r9853.html">InPerle</a></item>
+<item><a href="r9854.html">InRubis</a></item>
+<item><a href="r9855.html">InTopaze</a></item>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s9928.html">CHEVALIER Max</a></item>
+<item><a href="s9999.html">JULIEN Christine</a></item>
+<item><a href="s9946.html">LEBLANC Herve</a></item>
+<item><a href="s9962.html">PERCEBOIS Christian</a></item>
+<item><a href="s58777.html">VALERO-VALBUENA Silvia</a></item>
+<item><a href="s26196.html">VIALLET Fabienne</a></item></staff></resources>
+<notes>Contrôle TP Java sur machine<br />Documents et calculatrice non autorisés</notes></event>
+<event id="334853" timesort="14001530" colour="7F7F7F">
+<day>3</day>
+<prettytimes>14:00-15:30 cours de soutien</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>cours de soutien</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9834.html">IN022</a></item></room>
+<staff>
+<item><a href="s9947.html">KROSS Caroline</a></item></staff></resources>
+<notes>Soutien Droit</notes></event>
+<event id="335830" timesort="14001530" colour="FFFFBF">
+<day>3</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A1</item></group>
+<room>
+<item><a href="r9854.html">InRubis</a></item></room>
+<staff>
+<item><a href="s10082.html">COLOMB Sandrine</a></item></staff></resources></event>
+<event id="334864" timesort="14001530" colour="BF7FFF">
+<day>3</day>
+<prettytimes>14:00-15:30 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9839.html">InCorail</a></item>
+<item><a href="r9850.html">InGrenat</a></item>
+<item><a href="r9853.html">InPerle</a></item>
+<item><a href="r9854.html">InRubis</a></item>
+<item><a href="r9855.html">InTopaze</a></item>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s9928.html">CHEVALIER Max</a></item>
+<item><a href="s9999.html">JULIEN Christine</a></item>
+<item><a href="s9946.html">LEBLANC Herve</a></item>
+<item><a href="s9962.html">PERCEBOIS Christian</a></item>
+<item><a href="s58777.html">VALERO-VALBUENA Silvia</a></item>
+<item><a href="s26196.html">VIALLET Fabienne</a></item></staff></resources>
+<notes>Contrôle TP JUnit sur machine<br />Documents et calculatrice non autorisés</notes></event>
+<event id="335804" timesort="14001600" colour="BF7FFF">
+<day>3</day>
+<prettytimes>14:00-16:00 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item>
+<item><a href="r9851.html">InJade</a></item>
+<item><a href="r9852.html">InOpale</a></item>
+<item><a href="r9853.html">InPerle</a></item>
+<item><a href="r9854.html">InRubis</a></item>
+<item><a href="r9855.html">InTopaze</a></item>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s9902.html">CARRARA Jean-Paul</a></item></staff></resources></event>
+<event id="334047" timesort="14001530" colour="FFFFBF">
+<day>3</day>
+<prettytimes>14:00-15:30 TP</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9854.html">InRubis</a></item></room>
+<staff>
+<item><a href="s10082.html">COLOMB Sandrine</a></item></staff></resources>
+<notes>remplace le 08/05</notes></event>
+<event id="332507" timesort="14001530" colour="BEEAFF">
+<day>3</day>
+<prettytimes>14:00-15:30 CM</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="335810" timesort="14001600" colour="BF7FFF">
+<day>3</day>
+<prettytimes>14:00-16:00 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>16:00</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item>
+<item><a href="r9839.html">InCorail</a></item>
+<item><a href="r9850.html">InGrenat</a></item>
+<item><a href="r9853.html">InPerle</a></item>
+<item><a href="r9854.html">InRubis</a></item>
+<item><a href="r9855.html">InTopaze</a></item>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s9962.html">PERCEBOIS Christian</a></item></staff></resources></event>
+<event id="332501" timesort="15301700" colour="BEEAFF">
+<day>3</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s10316.html">TAHA Abdel-Kaddous</a></item></staff></resources>
+<notes>Ethique</notes></event>
+<event id="334453" timesort="15301700" colour="FFFFBF">
+<day>3</day>
+<prettytimes>15:30-17:00 TP</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76979.html">InM2207</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9855.html">InTopaze</a></item></room>
+<staff>
+<item><a href="s12197.html">NOTTIN Muriel</a></item></staff></resources></event>
+<event id="332508" timesort="15301700" colour="BEEAFF">
+<day>3</day>
+<prettytimes>15:30-17:00 CM</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="328651" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item>
+<item><a href="r9852.html">InOpale</a></item></room>
+<staff>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="328651" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item>
+<item><a href="r9852.html">InOpale</a></item></room>
+<staff>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="328651" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item>
+<item><a href="r9852.html">InOpale</a></item></room>
+<staff>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="328651" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item>
+<item><a href="r9852.html">InOpale</a></item></room>
+<staff>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="328650" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item>
+<item><a href="r9852.html">InOpale</a></item></room>
+<staff>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="328650" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="328650" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="328650" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="328650" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="328650" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9855.html">InTopaze</a></item></room>
+<staff>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="328650" timesort="08000930" colour="FFFFBF">
+<day>4</day>
+<prettytimes>08:00-09:30 TP</prettytimes>
+<starttime>08:00</starttime>
+<endtime>09:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item>InS2A1</item>
+<item>InS2A2</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room>
+<staff>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="336250" timesort="09301100" colour="FFD7B0">
+<day>4</day>
+<prettytimes>09:30-11:00 TD</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76966.html">InM2102</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9854.html">InRubis</a></item></room>
+<staff>
+<item><a href="s9953.html">BROISIN Julien</a></item></staff></resources></event>
+<event id="328665" timesort="09301100" colour="FFFFBF">
+<day>4</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item></staff></resources></event>
+<event id="328665" timesort="09301100" colour="FFFFBF">
+<day>4</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item></staff></resources></event>
+<event id="328665" timesort="09301100" colour="FFFFBF">
+<day>4</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item></staff></resources></event>
+<event id="328665" timesort="09301100" colour="FFFFBF">
+<day>4</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item></staff></resources></event>
+<event id="328665" timesort="09301100" colour="FFFFBF">
+<day>4</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item></staff></resources></event>
+<event id="328665" timesort="09301100" colour="FFFFBF">
+<day>4</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item></staff></resources></event>
+<event id="328665" timesort="09301100" colour="FFFFBF">
+<day>4</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item></staff></resources></event>
+<event id="328665" timesort="09301100" colour="FFFFBF">
+<day>4</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item></staff></resources></event>
+<event id="328665" timesort="09301100" colour="FFFFBF">
+<day>4</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item></staff></resources></event>
+<event id="328665" timesort="09301100" colour="FFFFBF">
+<day>4</day>
+<prettytimes>09:30-11:00 TP</prettytimes>
+<starttime>09:30</starttime>
+<endtime>11:00</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r36227.html">InTurquoise</a></item></room>
+<staff>
+<item><a href="s142929.html">ARNAULT Brice</a></item></staff></resources></event>
+<event id="328304" timesort="11001230" colour="FFD7B0">
+<day>4</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328304" timesort="11001230" colour="FFD7B0">
+<day>4</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328304" timesort="11001230" colour="FFD7B0">
+<day>4</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328304" timesort="11001230" colour="FFD7B0">
+<day>4</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328304" timesort="11001230" colour="FFD7B0">
+<day>4</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="328313" timesort="11001230" colour="FFFFBF">
+<day>4</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9849.html">InAmbre</a></item></room></resources></event>
+<event id="328340" timesort="11001230" colour="FFD7B0">
+<day>4</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room></resources></event>
+<event id="328340" timesort="11001230" colour="FFD7B0">
+<day>4</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room></resources></event>
+<event id="328340" timesort="11001230" colour="FFD7B0">
+<day>4</day>
+<prettytimes>11:00-12:30 TD</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9842.html">IN203</a></item></room></resources></event>
+<event id="328358" timesort="11001230" colour="FFFFBF">
+<day>4</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9853.html">InPerle</a></item></room></resources></event>
+<event id="328358" timesort="11001230" colour="FFFFBF">
+<day>4</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9853.html">InPerle</a></item></room></resources></event>
+<event id="328358" timesort="11001230" colour="FFFFBF">
+<day>4</day>
+<prettytimes>11:00-12:30 TP</prettytimes>
+<starttime>11:00</starttime>
+<endtime>12:30</endtime>
+<category>TP</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76968.html">InM2104</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9853.html">InPerle</a></item></room></resources></event>
+<event id="335773" timesort="14001700" colour="DFDFDF">
+<day>4</day>
+<prettytimes>14:00-17:00 Réunion</prettytimes>
+<starttime>14:00</starttime>
+<endtime>17:00</endtime>
+<category>Réunion</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9841.html">IN201</a></item></room>
+<staff>
+<item><a href="s79649.html">RASPAUD Pascale</a></item>
+<item><a href="s107267.html">TINE Chantal</a></item>
+<item><a href="s26196.html">VIALLET Fabienne</a></item></staff></resources>
+<notes>Remédiation S1<br />Présence obligatoire</notes></event>
+<event id="335811" timesort="14001530" colour="BF7FFF">
+<day>4</day>
+<prettytimes>14:00-15:30 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76969.html">InM2105</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9863.html">IRExam</a></item></room>
+<staff>
+<item><a href="s9929.html">BELTRAN Thierry</a></item>
+<item><a href="s62732.html">FAURE Frederic</a></item>
+<item><a href="s10021.html">FERNANDEZ Pascal</a></item>
+<item><a href="s100267.html">MICHEAU Paul</a></item></staff></resources></event>
+<event id="335806" timesort="14001530" colour="BF7FFF">
+<day>4</day>
+<prettytimes>14:00-15:30 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76967.html">InM2103</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9863.html">IRExam</a></item></room>
+<staff>
+<item><a href="s9999.html">JULIEN Christine</a></item></staff></resources></event>
+<event id="335812" timesort="14001530" colour="BF7FFF">
+<day>4</day>
+<prettytimes>14:00-15:30 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76970.html">InM2106</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9863.html">IRExam</a></item></room>
+<staff>
+<item><a href="s10062.html">CABANAC Guillaume</a></item>
+<item>ROURE Romain</item>
+<item><a href="s310341.html">SALORD Tristan</a></item>
+<item><a href="s9937.html">SEDES Florence</a></item></staff></resources></event>
+<event id="335805" timesort="14001530" colour="BF7FFF">
+<day>4</day>
+<prettytimes>14:00-15:30 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m77013.html">InM2101</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9863.html">IRExam</a></item></room>
+<staff>
+<item><a href="s9902.html">CARRARA Jean-Paul</a></item></staff></resources></event>
+<event id="332506" timesort="14001530" colour="BEEAFF">
+<day>4</day>
+<prettytimes>14:00-15:30 CM</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>CM</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9861.html">IR028</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item>
+<item><a href="s9912.html">CAZABAN Jacqueline</a></item></staff></resources></event>
+<event id="335814" timesort="14001530" colour="BF7FFF">
+<day>4</day>
+<prettytimes>14:00-15:30 Examen</prettytimes>
+<starttime>14:00</starttime>
+<endtime>15:30</endtime>
+<category>Examen</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76974.html">InM2203</a></item></module>
+<group>
+<item><a href="g8668.html">InS2</a></item></group>
+<room>
+<item><a href="r9863.html">IRExam</a></item></room>
+<staff>
+<item><a href="s10212.html">MARQUIE Olivier</a></item></staff></resources></event>
+<event id="334607" timesort="15301700" colour="FFD7B0">
+<day>4</day>
+<prettytimes>15:30-17:00 TD</prettytimes>
+<starttime>15:30</starttime>
+<endtime>17:00</endtime>
+<category>TD</category>
+<prettyweeks></prettyweeks>
+<rawweeks>NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNN</rawweeks>
+<resources>
+<module>
+<item><a href="m76977.html">InM2206</a></item></module>
+<group>
+<item>InS2A</item></group>
+<room>
+<item><a href="r9841.html">IN201</a></item></room>
+<staff>
+<item><a href="s112591.html">BLUMBERGER Virginie</a></item></staff></resources>
+<notes>remplace 07/05</notes></event></timetable>
