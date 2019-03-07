@@ -36,27 +36,73 @@ function init(xml) {
     var dayId = calendar.getDay() - 1;
     var hours = 0;
 
+    var reunion = false;
+
+    document.getElementById('day').innerHTML += '<div class="mdc-layout-grid__inner" style="height: 6.25%; background-color: rgb(255, 255, 255);"><h1>' + weekday[calendar.getDay()] + '</h1></div>';
+
     for (var i = 0; i < rawWeeks.length; i++) {
         if (rawWeeks[i].innerHTML == rawWeek && rawWeeks[i].previousElementSibling.previousElementSibling.previousElementSibling.previousElementSibling.previousElementSibling.previousElementSibling.innerHTML == dayId) {
-            hours++;
-            //console.log(rawWeeks[i].previousElementSibling.previousElementSibling);
-            if (hours === 4) {
+            hours = getHour(rawWeeks[i].previousElementSibling.previousElementSibling.previousElementSibling.previousElementSibling.innerHTML);
+
+            var room, module, staff;
+
+            room = getList('room', rawWeeks, i);
+            module = getList('module', rawWeeks, i);
+            staff = getList('staff', rawWeeks, i);
+
+            console.log(staff);
+
+            if (hours === 3) {
+                document.getElementById('day').innerHTML += '<div class="mdc-layout-grid__inner" style="height: 12.5%; background-color: ' + color(rawWeeks[i].previousElementSibling.previousElementSibling.innerHTML) + ';"><h1>' + module + '</h1><h1>' + room + '</h1><h1>' + staff + '</h1></div>';
                 document.getElementById('day').innerHTML += '<div class="mdc-layout-grid__inner" style="height: 12.5%; background-color: rgba(0, 0, 0, 0);"></div>';
-            } else if (hours == 1) {
-                document.getElementById('day').innerHTML += '<div class="mdc-layout-grid__inner" style="height: 6.25%; background-color: rgb(255, 255, 255);">' + weekday[calendar.getDay()] + '</div>';
-            }
-
-            var end = rawWeeks[i].previousElementSibling.previousElementSibling.previousElementSibling.innerHTML;
-
-            if (end == '14:00' || end == '13:30' || end == '13:00') {
-                document.getElementById('day').innerHTML += '<div class="mdc-layout-grid__inner" style="height: 6.25%; background-color: ' + color(rawWeeks[i].previousElementSibling.previousElementSibling.innerHTML) + ';">' + rawWeeks[i].nextElementSibling.innerHTML + '</div>';
+            } else if (hours === 4) {
+                reunion = true;
+                document.getElementById('day').innerHTML += '<div class="mdc-layout-grid__inner" style="height: 6.25%; background-color: ' + color(rawWeeks[i].previousElementSibling.previousElementSibling.innerHTML) + ';"><h1>' + module + '</h1><h1>' + room + '</h1><h1>' + staff + '</h1></div>';
+            } else if (hours === 5 && !reunion) {
+                document.getElementById('day').innerHTML += '<div class="mdc-layout-grid__inner" style="height: 6.25%; background-color: rgba(0, 0, 0, 0);"></div>';
+                document.getElementById('day').innerHTML += '<div class="mdc-layout-grid__inner" style="height: 12.5%; background-color: ' + color(rawWeeks[i].previousElementSibling.previousElementSibling.innerHTML) + ';"><h1>' + module + '</h1><h1>' + room + '</h1><h1>' + staff + '</h1></div>';
             } else {
-                document.getElementById('day').innerHTML += '<div class="mdc-layout-grid__inner" style="height: 12.5%; background-color: ' + color(rawWeeks[i].previousElementSibling.previousElementSibling.innerHTML) + ';">' + rawWeeks[i].nextElementSibling.innerHTML + '</div>';
+                document.getElementById('day').innerHTML += '<div class="mdc-layout-grid__inner" style="height: 12.5%; background-color: ' + color(rawWeeks[i].previousElementSibling.previousElementSibling.innerHTML) + ';"><h1>' + module + '</h1><h1>' + room + '</h1><h1>' + staff + '</h1></div>';
             }
         }
     }
 
     initBool = true;
+}
+
+function getList(tag, rawWeeks, i) {
+    var list = rawWeeks[i].nextElementSibling.getElementsByTagName(tag)[0].getElementsByTagName('item');
+    var string = ' - ';
+
+    for (var l = 0; l < list.length; l++) {
+
+        string += list[l].innerText + " - ";
+
+    }
+
+    return string;
+}
+
+function getHour(startTime) {
+    //console.log(startTime);
+    switch (startTime) {
+        case '08:00':
+            return 1;
+        case '09:30':
+            return 2;
+        case '11:00':
+            return 3;
+        case '12:30':
+            return 4;
+        case '14:00':
+            return 5;
+        case '15:30':
+            return 6;
+        case '17:00':
+            return 7;
+        default:
+            return 4;
+    }
 }
 
 function color(category) {
