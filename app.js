@@ -2,9 +2,10 @@ import {
     MDCRipple
 } from '@material/ripple';
 
-var s2a = "https://www.planning.iut-tlse3.fr/info/g8669.xml";
+var url = "https://www.planning.iut-tlse3.fr/info/g8703.xml";
+url = "https://whateverorigin.herokuapp.com";
 
-$.getJSON('https://whateverorigin.herokuapp.com/get?url=' + encodeURIComponent(s2a) + '&callback=?', function(data) {
+$.getJSON('https://whateverorigin.herokuapp.com/get?url=' + encodeURIComponent(url) + '&callback=', function(data) {
     init(data.contents);
     //console.log(isMobileDevice());
 });
@@ -12,7 +13,7 @@ $.getJSON('https://whateverorigin.herokuapp.com/get?url=' + encodeURIComponent(s
 var initBool = false;
 
 function init(xml) {
-    //console.log(xml);
+    console.log(xml);
 
     var calendar = new Date();
     var weekday = new Array(7);
