@@ -3,7 +3,6 @@ import {
 } from '@material/ripple';
 
 var url = "https://www.planning.iut-tlse3.fr/info/g8703.xml";
-url = "https://whateverorigin.herokuapp.com";
 
 $.getJSON('https://whateverorigin.herokuapp.com/get?url=' + encodeURIComponent(url) + '&callback=', function(data) {
     init(data.contents);
